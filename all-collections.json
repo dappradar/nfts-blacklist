@@ -1,7 +1,7 @@
 {
   "name": "Collections Blacklist",
   "description": "This file is auto-generated when new collections are added to specific protocols",
-  "updated": "2022-08-01T14:15:44.129Z",
+  "updated": "2022-08-01T14:31:29.081Z",
   "collections": {
     "ethereum": {
       "0x1e894ef6274ce7139c0a18dceed0876408cb2de9": [],
@@ -12,7 +12,9 @@
       "0xa9295ad63ed907b29d70874f41b8dd3b5abc98fe": []
     },
     "polygon": {
-      "0x612ee4bfd2ee2eaa7ef44120543c78ab4bd16635": []
+      "0x612ee4bfd2ee2eaa7ef44120543c78ab4bd16635": [
+        3
+      ]
     }
   }
 }
