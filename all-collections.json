@@ -1,7 +1,7 @@
 {
   "name": "Collections Blacklist",
   "description": "This file is auto-generated when new collections are added to specific protocols",
-  "updated": "2022-08-01T14:08:21.193Z",
+  "updated": "2022-08-01T14:15:44.129Z",
   "collections": {
     "ethereum": {
       "0x1e894ef6274ce7139c0a18dceed0876408cb2de9": [],
