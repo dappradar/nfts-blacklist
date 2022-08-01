@@ -13,5 +13,5 @@ Do not add dead or inactive collections.
 5. Commit & Push the changes
 6. Create a pull request to the main repository
 
-# All Tokens
+# All Collections
 File `all-collections.json` is generated automatically by GitHub Actions after new collections are added to specific protocols.
