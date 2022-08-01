@@ -19,9 +19,9 @@ const allCollections = () => {
         })
         allCollections[protocol] = protocolBlacklist;
     })
-    fs.writeFileSync('all-collections.json', JSON.stringify({
-        "name": "Collections Blacklist",
-        "description": "This file is auto-generated when new collections are added to specific protocols",
+    fs.writeFileSync('all-nfts.json', JSON.stringify({
+        "name": "NFT collections blacklist",
+        "description": "This file is auto-generated when new NFT collections are added to specific protocols blacklists",
         "updated": new Date().toISOString(),
         "collections": allCollections
     }, null, 2));
