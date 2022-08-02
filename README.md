@@ -6,7 +6,7 @@ Do not add dead or inactive NFT collections.
 # How to add new NFT collections to the blacklist
 1. Fork the GitHub repository
 2. Go to the `collections` directory and select the relevant protocol (create if did not exist)
-3. Create or open a new folder named after collection smart contract address
+3. Create or open a new folder named after collection's smart contract address
 4. Open `blacklist.json` (create if did not exist) and:
    1. To blacklist all NFT collection items, add the following content: ``{"items": []}``
    2. To blacklist specific NFT collection items, add item IDs separated by a comma in `items` array: (`{"items": [123, 321]}`)
