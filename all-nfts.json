@@ -1,13 +1,14 @@
 {
   "name": "NFT collections blacklist",
   "description": "This file is auto-generated when new NFT collections are added to specific protocols blacklists",
-  "updated": "2022-08-03T12:36:57.838Z",
+  "updated": "2022-08-29T06:37:44.179Z",
   "collections": {
     "ethereum": {
       "0x1e894ef6274ce7139c0a18dceed0876408cb2de9": [],
       "0x1ee7a2fcca305221b06e5fd587b939ff4f9d8db5": [],
       "0x3a6cb56d73d55efbcad735d028b9ca2cf65db8a3": [],
       "0x57a216567d596073dff4cc5026450619ee0be4a5": [],
+      "0x8dcb8b2d721c022552d826f8bcf2995747248d31": [],
       "0x94ee23bd943f2cbb69df49b6e3b1b200da090565": [],
       "0xa9295ad63ed907b29d70874f41b8dd3b5abc98fe": []
     },
